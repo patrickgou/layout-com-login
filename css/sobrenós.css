@@ -1,0 +1,31 @@
+body{
+    background-image: url(../img/desktop-wallpaper-login-screen-backgrounds-761252-login.jpg);
+   background-size: cover;
+  
+    
+
+
+}
+
+.container{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 12px;
+    width: 90%;
+    height: 800px;
+    margin: auto;
+    
+}
+
+.container h1{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 60px;
+    color: black;
+    text-shadow: 2px 2px 2px red;
+}
+
+.container p{
+    padding: 10px;
+    font-size: 33px;
+}

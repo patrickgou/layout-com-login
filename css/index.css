@@ -1,0 +1,126 @@
+body{
+  background-color: #524f4f;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.hero{
+  background-image: url(../img/desktop-wallpaper-login-screen-backgrounds-761252-login.jpg);
+  height: 500px;
+  background-size: cover;
+  background-position: right center;
+  padding-top: 1px;
+}
+
+.hero-content{
+  margin: 100px auto 0;
+  width: 80%;
+  text-align: center;
+  color: aqua;
+}
+
+.hero-content h1{
+  font-size: 50px;
+  text-shadow: 2px 8px 3px black;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+
+.hero-content p{
+  background-color: rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  font-size: 18px;
+  padding: 15px;
+  border-bottom: 2px solid;
+}
+
+.hero nav ul {
+  margin: 20px 50px 0 0;
+  text-align: right;
+
+}
+
+.hero nav li{
+  display: inline-block;
+  list-style-type: none;
+  border: 1px solid white;
+  margin-left: 18px;
+}
+.hero nav a{
+background-color: rgba(0, 0, 0, .3);
+padding: 16px;
+display: block;
+color: white;
+text-decoration: none;
+text-transform: uppercase;
+font-size: 12px;
+letter-spacing: 2px;
+}
+
+.hero nav a:hover{
+background-color: rgba(51, 231, 231, 0.5);
+
+}
+
+main{
+  margin: auto;
+  width: 60%;
+  max-width: 800px;
+}
+
+
+
+.tib{
+  background-image: url(../img/tibia.png);
+  background-size:cover;
+  color: #ccc;
+}
+
+.rag{
+  background-image: url(../img/ragnarok);
+  background-size:cover;
+  color:white;
+  
+}
+
+.lost{
+  background-image: url(../img/lostark.jpg);
+  color:white;
+  background-size:cover;
+}
+
+
+
+article{
+  background-color: #ffffff;
+  padding: 16px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+article h2{
+  border-bottom: #ccc;
+  background-color: #f0e113c0;
+  padding: 10px;
+  margin-top: 0;
+}
+
+a.btn{
+  background-color: #cdc7c3;
+  display:block;
+  padding: 12px;
+  border-radius: 6px;
+  margin-left: auto;
+  width:fit-content;
+  
+}
+
+.rodapé{
+  background-color: rgba(0, 0, 0, .7);
+  text-shadow: 3px 3px 3px black;
+  padding: 30px;
+  text-align: center;
+  color:white;
+  letter-spacing: 2px;
+
+}
